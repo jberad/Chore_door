@@ -1,0 +1,1 @@
+simple program using javascript.  Open all of the doors without running in to the Chore Robot.  If you open the door with the Chore Robot last, you win!
